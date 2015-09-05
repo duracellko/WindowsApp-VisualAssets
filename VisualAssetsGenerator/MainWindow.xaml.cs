@@ -109,6 +109,10 @@ namespace VisualAssetsGenerator
                 {
                     converter = new VisualAssetsConverter8();
                 }
+                else if (this.windowsPhone8RadioButton.IsChecked.GetValueOrDefault())
+                {
+                    converter = new VisualAssetsConverterPhone8();
+                }
                 else
                 {
                     converter = new VisualAssetsConverter10();

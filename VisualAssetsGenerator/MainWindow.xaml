@@ -55,7 +55,8 @@
 
         <StackPanel Grid.Column="1" Grid.Row="3" Orientation="Horizontal">
             <RadioButton Name="windows10RadioButton" GroupName="WindowsVersion" Content="Windows 10" IsChecked="True" Margin="5" />
-            <RadioButton Name="windows8RadioButton" GroupName="WindowsVersion" Content="Windows 8" Margin="5" />
+            <RadioButton Name="windows8RadioButton" GroupName="WindowsVersion" Content="Windows 8.1" Margin="5" />
+            <RadioButton Name="windowsPhone8RadioButton" GroupName="WindowsVersion" Content="Windows Phone 8.1" Margin="5" />
         </StackPanel>
 
         <Grid Grid.Column="1" Grid.Row="4">

@@ -60,6 +60,7 @@
     <Compile Include="VisualAssetInfo.cs" />
     <Compile Include="VisualAssetsConverter.cs" />
     <Compile Include="VisualAssetsConverter10.cs" />
+    <Compile Include="VisualAssetsConverterPhone8.cs" />
     <Compile Include="VisualAssetsConverter8.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
