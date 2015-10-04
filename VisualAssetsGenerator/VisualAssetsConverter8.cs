@@ -10,20 +10,20 @@ namespace VisualAssetsGenerator
     {
         private readonly VisualAssetInfo[] visualAssets = new VisualAssetInfo[]
         {
-            new VisualAssetInfo() { FileName = "TinyLogo.scale-100.png", Width = 70, Height = 70, Category = LogoCategories.SmallLogo },
-            new VisualAssetInfo() { FileName = "TinyLogo.scale-80.png", Width = 56, Height = 56, Category = LogoCategories.SmallLogo },
-            new VisualAssetInfo() { FileName = "TinyLogo.scale-140.png", Width = 98, Height = 98, Category = LogoCategories.SmallLogo },
-            new VisualAssetInfo() { FileName = "TinyLogo.scale-180.png", Width = 126, Height = 126, Category = LogoCategories.SmallLogo },
+            new VisualAssetInfo() { FileName = "Square70x70Logo.scale-100.png", Width = 70, Height = 70, Category = LogoCategories.SmallLogo },
+            new VisualAssetInfo() { FileName = "Square70x70Logo.scale-80.png", Width = 56, Height = 56, Category = LogoCategories.SmallLogo },
+            new VisualAssetInfo() { FileName = "Square70x70Logo.scale-140.png", Width = 98, Height = 98, Category = LogoCategories.SmallLogo },
+            new VisualAssetInfo() { FileName = "Square70x70Logo.scale-180.png", Width = 126, Height = 126, Category = LogoCategories.SmallLogo },
 
             new VisualAssetInfo() { FileName = "Logo.scale-100.png", Width = 150, Height = 150, Category = LogoCategories.Logo },
             new VisualAssetInfo() { FileName = "Logo.scale-80.png", Width = 120, Height = 120, Category = LogoCategories.Logo },
             new VisualAssetInfo() { FileName = "Logo.scale-140.png", Width = 210, Height = 210, Category = LogoCategories.Logo },
             new VisualAssetInfo() { FileName = "Logo.scale-180.png", Width = 270, Height = 270, Category = LogoCategories.Logo },
 
-            new VisualAssetInfo() { FileName = "WideLogo.scale-100.png", Width = 310, Height = 150, Category = LogoCategories.WideLogo },
-            new VisualAssetInfo() { FileName = "WideLogo.scale-80.png", Width = 248, Height = 120, Category = LogoCategories.WideLogo },
-            new VisualAssetInfo() { FileName = "WideLogo.scale-140.png", Width = 434, Height = 210, Category = LogoCategories.WideLogo },
-            new VisualAssetInfo() { FileName = "WideLogo.scale-180.png", Width = 558, Height = 270, Category = LogoCategories.WideLogo },
+            new VisualAssetInfo() { FileName = "Wide310x150Logo.scale-100.png", Width = 310, Height = 150, Category = LogoCategories.WideLogo },
+            new VisualAssetInfo() { FileName = "Wide310x150Logo.scale-80.png", Width = 248, Height = 120, Category = LogoCategories.WideLogo },
+            new VisualAssetInfo() { FileName = "Wide310x150Logo.scale-140.png", Width = 434, Height = 210, Category = LogoCategories.WideLogo },
+            new VisualAssetInfo() { FileName = "Wide310x150Logo.scale-180.png", Width = 558, Height = 270, Category = LogoCategories.WideLogo },
 
             new VisualAssetInfo() { FileName = "Square310x310Logo.scale-100.png", Width = 310, Height = 310, Category = LogoCategories.BigLogo },
             new VisualAssetInfo() { FileName = "Square310x310Logo.scale-80.png", Width = 248, Height = 248, Category = LogoCategories.BigLogo },
